@@ -1,1 +1,2 @@
-This is an undo step
+This is an undo step.
+step 2
